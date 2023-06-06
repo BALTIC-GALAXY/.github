@@ -12,4 +12,5 @@ Welcome to the GitHub page of the BALTIC-Galaxy Minecraft Server network.
 ## We are also represented here
 
 Discord: https://discord.com/invite/BALTICGalaxy
+
 Twitter: https://twitter.com/BALTICGalaxy
